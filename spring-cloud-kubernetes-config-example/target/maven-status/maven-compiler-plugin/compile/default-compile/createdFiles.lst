@@ -1,0 +1,4 @@
+com\techprimers\kubernetes\springcloudkubernetesconfigexample\SpringCloudKubernetesConfigExampleApplication.class
+com\techprimers\kubernetes\springcloudkubernetesconfigexample\SchedulerComponent.class
+com\techprimers\kubernetes\springcloudkubernetesconfigexample\WelcomeConfiguration.class
+com\techprimers\kubernetes\springcloudkubernetesconfigexample\WelcomeController.class
